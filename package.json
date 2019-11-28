@@ -1,0 +1,23 @@
+{
+  "name": "rpi-rv-control",
+  "version": "1.0.0",
+  "description": "Control you RV using Raspberry Pi",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/paalex/rpi-rv-control.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/paalex/rpi-rv-control/issues"
+  },
+  "packages": {},
+  "homepage": "https://github.com/paalex/rpi-rv-control#readme",
+  "dependencies": {
+    "rpi-gpio": "^2.1.5"
+  }
+}
