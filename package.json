@@ -25,7 +25,7 @@
     "babel-preset-stage-2": "^6.3.13",
     "babel-register": "^6.3.13",
     "dotenv": "^8.2.0",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.21",
     "rpi-gpio": "^2.1.5"
   },
   "babel": {
